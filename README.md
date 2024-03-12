@@ -20,7 +20,4 @@
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/salatiel-bonfim-015725251/">Salatiel Bonfim</a></li>
     
   </ul>
-
-  <p>Fique à vontade para entrar em contato para colaborações ou apenas para trocar ideias sobre tecnologia e jogos!</p>
-</body>
 </html>
