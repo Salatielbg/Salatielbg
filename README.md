@@ -4,7 +4,7 @@
   <h1>Olá! 👋</h1>
   <p>Sou um analista de suporte técnico voltado para sistemas ERP, com uma paixão por tecnologia e jogos. Estou atualmente buscando uma oportunidade de transição para a indústria de desenvolvimento de jogos.</p>
 
-  <h2>Sobre Mim</h2>
+  <h2>Sobre mim</h2>
   <ul>
     <li>💼 Experiência em resolver problemas técnicos e fornecer suporte aos clientes.</li>
     <li>🌱 Constantemente aprendendo e desenvolvendo habilidades em resolução de problemas, comunicação e trabalho em equipe.</li>
