@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <body>
   <h1>Olá! 👋</h1>
-  <p>Sou um analista de suporte técnico voltado para sistemas ERP, com uma paixão por tecnologia e jogos. Estou atualmente buscando uma oportunidade de transição para a indústria de desenvolvimento de jogos.</p>
+  <p>Sou um analista de suporte técnico voltado para sistemas ERP, com uma paixão por tecnologia e jogos. Estou atualmente buscando uma oportunidade de transição para a indústria de desenvolvimento</p>
 
   <h2>Sobre mim</h2>
   <ul>
@@ -12,7 +12,7 @@
   </ul>
 
   <h2>Objetivo</h2>
-  <p>Estou buscando oportunidades na indústria de desenvolvimento, onde posso aplicar minha paixão por tecnologia e meu desejo de criar experiências envolventes para os jogadores.</p>
+  <p>Estou buscando oportunidades na indústria de desenvolvimento, onde posso aplicar minha conhecimento já adquirido e iniciar minha jornada nesse novo mundo.</p>
 
   <h2>Contato</h2>
   <ul>
