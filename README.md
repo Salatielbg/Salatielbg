@@ -12,7 +12,7 @@
   </ul>
 
   <h2>Objetivo</h2>
-  <p>Estou buscando oportunidades emocionantes na indústria de desenvolvimento de jogos, onde posso aplicar minha paixão por tecnologia e meu desejo de criar experiências envolventes para os jogadores.</p>
+  <p>Estou buscando oportunidades na indústria de desenvolvimento, onde posso aplicar minha paixão por tecnologia e meu desejo de criar experiências envolventes para os jogadores.</p>
 
   <h2>Contato</h2>
   <ul>
