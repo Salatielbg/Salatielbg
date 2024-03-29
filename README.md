@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <body>
   <h1>Olá! 👋</h1>
-  <p>Sou um analista de suporte técnico voltado para sistemas ERP, com uma paixão por tecnologia e jogos. Estou atualmente buscando uma oportunidade de transição para a indústria de desenvolvimento</p>
+  <p>Sou um analista de suporte técnico voltado para sistemas ERP, com uma paixão por tecnologia e jogos. Estou atualmente buscando uma oportunidade de transição para a indústria de desenvolvimento.</p>
 
   <h2>Sobre mim</h2>
   <ul>
