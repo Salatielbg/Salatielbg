@@ -4,7 +4,7 @@
   <p>Focado em criar soluções robustas com <strong>Java (Spring Boot)</strong>, interfaces web dinâmicas em <strong>Angular</strong> e automações com <strong>IA Aplicada</strong>.</p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/salatiel-bonfim-015725251/" target="_blank">
+    <a href="https://www.linkedin.com/in/salatiel-bonfim/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:salatielbonfim236@gmail.com">
