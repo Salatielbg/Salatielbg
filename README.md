@@ -78,5 +78,5 @@
 
 <div align="center">
   <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato para trocarmos uma ideia!</p>
-  <p>📫 <strong>Email:</strong> <a href="mailto:salatielbonfim236@gmail.com">salatielbonfim236@gmail.com</a> | 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/salatiel-bonfim-015725251/">Salatiel Bonfim</a></p>
+  <p>📫 <strong>Email:</strong> <a href="mailto:salatielbonfim236@gmail.com">salatielbonfim236@gmail.com</a> | 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/salatiel-bonfim/">Salatiel Bonfim</a></p>
 </div>
