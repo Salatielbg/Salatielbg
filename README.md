@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, sou o Salatiel Bonfim! 👋</h1>
   <p><strong>Desenvolvedor de Software Full Stack Júnior</strong></p>
-  <p>Focado em criar soluções robustas com <strong>Java (Spring Boot)</strong>, interfaces web dinâmicas em <strong>Angular</strong> e automações com <strong>IA Aplicada</strong>.</p>
+  <p>Focado em criar soluções robustas com <strong>Java (Spring Boot)</strong>, interfaces web dinâmicas em <strong>Angular</strong> e arquiteturas orientadas a eventos.</p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/salatiel-bonfim/" target="_blank">
@@ -17,11 +17,10 @@
 
 ### 🚀 Sobre Mim
 
-- 💻 **Atuação:** Desenvolvedor Full Stack Júnior com experiência na construção de APIs RESTful e aplicações web empresariais.
-- 🎯 **Background de Valor:** Bagagem em suporte e sustentação a sistemas ERP, o que me proporcionou forte entendimento de regras de negócio, foco no usuário final e capacidade analítica na resolução de problemas.
-- ⚡ **Inovação & Autonomia:** Entusiasta de automações com **n8n**, integração de LLMs (**Groq**), Web 3D (**Three.js**) e experimentos com visão computacional (**YOLO**).
-- 🎓 **Formação:** Graduando em Sistemas de Informação pela **UNEMAT**.
-- 🔬 **Pesquisa Atual:** TCC em **Interoperabilidade em Saúde** utilizando o padrão internacional **HL7 FHIR**.
+- 💻 **Atuação:** Desenvolvedor Full Stack Júnior na **JMJ Sistemas e Consultoria**, atuando no desenvolvimento e evolução de sistemas críticos voltados para operadoras de saúde (Unimed, Santa Casa) com **Java (Spring Boot)**, **Angular**, microsserviços e integrações REST.
+- 🎯 **Background de Valor:** Vivência prévia como Desenvolvedor **Delphi** e Analista de Suporte a sistemas **ERP**, com forte domínio de regras de negócio, SQL e resolução de problemas em produção.
+- 🔬 **Pesquisa & Arquitetura:** Autor de arquitetura orientada a eventos em saúde integrando **Debezium CDC**, **RabbitMQ** e o padrão internacional **HL7 FHIR R4**.
+- 🎓 **Formação:** Bacharelando em Sistemas de Informação pela **UNEMAT** (conclusão prevista: 06/2027).
 
 ---
 
@@ -29,41 +28,41 @@
 
 <div align="left">
 
-#### ⚙️ Back-end
+#### ⚙️ Back-end & Arquitetura
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 #### 🌐 Front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### 🗄️ Bancos de Dados
+#### 🗄️ Bancos de Dados & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🤖 Automação, IA & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO_Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 📌 Destaques & Projetos Recentes
+### 📌 Destaques & Projetos
 
-- 🎥 **Pipeline Automatizado de Vídeos (n8n + Groq + Three.js):** Fluxo inteligente para geração e orquestração de vídeos e cenas 3D interativas.
-- 👁️ **Visão Computacional (YOLO):** Treinamento e detecção de objetos para aplicações inteligentes.
-- 🏥 **Interoperabilidade em Saúde (HL7 FHIR):** Projeto focado na integração e intercâmbio padronizado de registros clínicos em saúde.
-- 🏨 **Sistema de Reserva de Hotel:** Aplicação completa em Java, Spring Boot e MySQL com autenticação e controle de disponibilidade.
+- 🏥 **[Middleware CDC → HL7 FHIR R4 (Showcase)](https://github.com/Salatielbg/hl7-fhir-cdc-middleware-showcase):** Arquitetura orientada a eventos com Java 17, Spring Boot 3.2, Debezium CDC, RabbitMQ e Caffeine Cache, atingindo ~504 ms de latência média ponta a ponta.
+- 🩺 **[Agenda de Consulta Médica](https://github.com/Salatielbg/Agenda_Consulta_Medica):** Aplicação Full Stack para agendamento de consultas por especialidade médica com React, Node.js/Express e MongoDB.
+- ✅ **[AppToDo (Angular)](https://github.com/Salatielbg/Salatielbg.github.io):** Aplicação web de gerenciamento de tarefas construída com Angular 16 e TypeScript, publicada via GitHub Pages.
+- 🎬 **[Screenmatch Spring](https://github.com/Salatielbg/Screenmatch-spring-sem-web):** Aplicação Java com Spring Boot para consumo de API externa e desserialização de dados de séries e episódios.
+- 📚 **[Biblioteca de Animes v2](https://github.com/Salatielbg/biblioteca-animes-v2):** Aplicação web em Vue.js com CRUD completo para gerenciamento de catálogo.
 
 ---
 
@@ -77,6 +76,6 @@
 ---
 
 <div align="center">
-  <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato para trocarmos uma ideia!</p>
+  <p>Sinta-se à vontade para explorar meus repositórios ou entrar em contato!</p>
   <p>📫 <strong>Email:</strong> <a href="mailto:salatielbonfim236@gmail.com">salatielbonfim236@gmail.com</a> | 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/salatiel-bonfim/">Salatiel Bonfim</a></p>
 </div>
